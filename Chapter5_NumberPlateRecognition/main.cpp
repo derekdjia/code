@@ -51,6 +51,7 @@ string getFilename(string s) {
 int main ( int argc, char** argv )
 {
     cout << "OpenCV Automatic Number Plate Recognition\n";
+    cout << "this is derek's code" << endl;
     char* filename;
     Mat input_image;
 
